@@ -1,0 +1,15 @@
+/Users/alinakocieva/Documents/C#/bin/Debug/net6.0/C#
+/Users/alinakocieva/Documents/C#/bin/Debug/net6.0/C#.deps.json
+/Users/alinakocieva/Documents/C#/bin/Debug/net6.0/C#.runtimeconfig.json
+/Users/alinakocieva/Documents/C#/bin/Debug/net6.0/C#.dll
+/Users/alinakocieva/Documents/C#/bin/Debug/net6.0/C#.pdb
+/Users/alinakocieva/Documents/C#/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+/Users/alinakocieva/Documents/C#/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinakocieva/Documents/C#/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+/Users/alinakocieva/Documents/C#/obj/Debug/net6.0/C#.AssemblyInfo.cs
+/Users/alinakocieva/Documents/C#/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+/Users/alinakocieva/Documents/C#/obj/Debug/net6.0/C#.dll
+/Users/alinakocieva/Documents/C#/obj/Debug/net6.0/refint/C#.dll
+/Users/alinakocieva/Documents/C#/obj/Debug/net6.0/C#.pdb
+/Users/alinakocieva/Documents/C#/obj/Debug/net6.0/C#.genruntimeconfig.cache
+/Users/alinakocieva/Documents/C#/obj/Debug/net6.0/ref/C#.dll
