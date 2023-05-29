@@ -245,29 +245,51 @@
 // 3 -> 1, 8, 27
 // 5 -> 1, 8, 27, 64, 125
 
-Console.WriteLine("Введите число: ");
-int cube = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите число: ");
+// int cube = Convert.ToInt32(Console.ReadLine());
 
-void cubeNum(int[] cube)
-{
-  int count = 0;
-  int length = cube.Length;
-  while (count <  length){
-    cube[count] = Convert.ToInt32(Math.Pow(count, 3));
-    count++;
-  }
-}
+// void cubeNum(int[] cube)
+// {
+//   int count = 0;
+//   int length = cube.Length;
+//   while (count <  length){
+//     cube[count] = Convert.ToInt32(Math.Pow(count, 3));
+//     count++;
+//   }
+// }
 
-void PrintArray(int[] coll)
-{
-  int counter = coll.Length;
-  int index = 1;
-  while(index < counter){
-    Console.Write(coll[index]+ " ");
-    index++;
-  }
-} 
+// void PrintArray(int[] coll)
+// {
+//   int counter = coll.Length;
+//   int index = 1;
+//   while(index < counter){
+//     Console.Write(coll[index]+ " ");
+//     index++;
+//   }
+// } 
 
-int[] array = new int[cube+1];
-cubeNum(array);
-PrintArray(array);
+// int[] array = new int[cube+1];
+// cubeNum(array);
+// PrintArray(array);
+
+
+
+
+
+// 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа. Через строку решать нельзя.
+
+// 456 -> 5
+// 782 -> 8
+// 918 -> 1
+
+
+
+// Console.WriteLine("Введите 3х значное число");
+// int num = Convert.ToInt32(Console.ReadLine());
+// void numOfArray(int [] number)
+// {
+//   Console.WriteLine(n);
+// }
+// numOfArray{2,3,4};
+
+
