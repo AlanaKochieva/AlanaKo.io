@@ -1,0 +1,15 @@
+/Users/alinakocieva/Documents/C#/Hw-8/bin/Debug/net6.0/Hw-8
+/Users/alinakocieva/Documents/C#/Hw-8/bin/Debug/net6.0/Hw-8.deps.json
+/Users/alinakocieva/Documents/C#/Hw-8/bin/Debug/net6.0/Hw-8.runtimeconfig.json
+/Users/alinakocieva/Documents/C#/Hw-8/bin/Debug/net6.0/Hw-8.dll
+/Users/alinakocieva/Documents/C#/Hw-8/bin/Debug/net6.0/Hw-8.pdb
+/Users/alinakocieva/Documents/C#/Hw-8/obj/Debug/net6.0/Hw-8.csproj.AssemblyReference.cache
+/Users/alinakocieva/Documents/C#/Hw-8/obj/Debug/net6.0/Hw-8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinakocieva/Documents/C#/Hw-8/obj/Debug/net6.0/Hw-8.AssemblyInfoInputs.cache
+/Users/alinakocieva/Documents/C#/Hw-8/obj/Debug/net6.0/Hw-8.AssemblyInfo.cs
+/Users/alinakocieva/Documents/C#/Hw-8/obj/Debug/net6.0/Hw-8.csproj.CoreCompileInputs.cache
+/Users/alinakocieva/Documents/C#/Hw-8/obj/Debug/net6.0/Hw-8.dll
+/Users/alinakocieva/Documents/C#/Hw-8/obj/Debug/net6.0/refint/Hw-8.dll
+/Users/alinakocieva/Documents/C#/Hw-8/obj/Debug/net6.0/Hw-8.pdb
+/Users/alinakocieva/Documents/C#/Hw-8/obj/Debug/net6.0/Hw-8.genruntimeconfig.cache
+/Users/alinakocieva/Documents/C#/Hw-8/obj/Debug/net6.0/ref/Hw-8.dll
