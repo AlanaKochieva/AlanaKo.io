@@ -1,0 +1,15 @@
+/Users/alinakocieva/Documents/C#/hw9/bin/Debug/net6.0/hw9
+/Users/alinakocieva/Documents/C#/hw9/bin/Debug/net6.0/hw9.deps.json
+/Users/alinakocieva/Documents/C#/hw9/bin/Debug/net6.0/hw9.runtimeconfig.json
+/Users/alinakocieva/Documents/C#/hw9/bin/Debug/net6.0/hw9.dll
+/Users/alinakocieva/Documents/C#/hw9/bin/Debug/net6.0/hw9.pdb
+/Users/alinakocieva/Documents/C#/hw9/obj/Debug/net6.0/hw9.csproj.AssemblyReference.cache
+/Users/alinakocieva/Documents/C#/hw9/obj/Debug/net6.0/hw9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinakocieva/Documents/C#/hw9/obj/Debug/net6.0/hw9.AssemblyInfoInputs.cache
+/Users/alinakocieva/Documents/C#/hw9/obj/Debug/net6.0/hw9.AssemblyInfo.cs
+/Users/alinakocieva/Documents/C#/hw9/obj/Debug/net6.0/hw9.csproj.CoreCompileInputs.cache
+/Users/alinakocieva/Documents/C#/hw9/obj/Debug/net6.0/hw9.dll
+/Users/alinakocieva/Documents/C#/hw9/obj/Debug/net6.0/refint/hw9.dll
+/Users/alinakocieva/Documents/C#/hw9/obj/Debug/net6.0/hw9.pdb
+/Users/alinakocieva/Documents/C#/hw9/obj/Debug/net6.0/hw9.genruntimeconfig.cache
+/Users/alinakocieva/Documents/C#/hw9/obj/Debug/net6.0/ref/hw9.dll
